@@ -1,0 +1,12 @@
+img{
+    width: 100%;
+    align-content: center;
+}
+
+.imagebox{
+    align-content: center;
+}
+
+main{
+    max-width: 540px;
+}
