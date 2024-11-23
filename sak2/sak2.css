@@ -3,10 +3,8 @@ img{
     align-content: center;
 }
 
-.imagebox{
-    align-content: center;
-}
+
 
 main{
-    max-width: 540px;
+    max-width: 600px;
 }
